@@ -43,12 +43,11 @@ class Language(object):
 
 class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
-        [[
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('About', callback_data='about')
-        ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/RajFiles')]
-
+        [
+            [InlineKeyboardButton('Help', callback_data='help'),
+             InlineKeyboardButton('About', callback_data='about')],
+            [InlineKeyboardButton("Updates Channel", url='https://t.me/RajFiles')]
+        ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
