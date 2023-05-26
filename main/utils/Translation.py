@@ -47,9 +47,8 @@ class BUTTON(object):
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/TechZBots'),
-        InlineKeyboardButton("Repo", url='https://github.com/TechShreyash/TG-Direct-Link-Generator')]
-        ]
+        [InlineKeyboardButton("Updates Channel", url='https://
+
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
