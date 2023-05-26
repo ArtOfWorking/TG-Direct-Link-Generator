@@ -21,13 +21,13 @@ class Language(object):
 
 <b><i><u>Warning 🚸</u></i></b>
 <b>🔞 Pron Contents Leads To Permanenet Ban You.</b></b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/TechZBots_Support'>[ Click Here ]</a></b>"""
+<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/RajFiles' [ Raj Files] </a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ My Name : TG Direct Link Generator</b>\n
-<b>⚜ Username : @TGDirectLinkGenBot</b>\n
+<b>⚜ My Name : File To Link Generator</b>\n
+<b>⚜ Username : @File_StreamProBot</b>\n
 <b>🔸Version : 1.0</b>\n
-<b>🔹Last Updated : [ 04-Apr-22 ]</b>
+<b>🔹Last Updated : [ daily ]</b>
 """
 
         stream_msg_text ="""
@@ -37,7 +37,7 @@ class Language(object):
 <b>📥 Download :</b> {}\n
 <b>🖥 Watch :</b> {}"""
 
-        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/TechZBots_Support) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
+        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/RajFiles) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
 # ------------------------------------------------------------------------------
 
