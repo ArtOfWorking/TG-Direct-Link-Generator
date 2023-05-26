@@ -47,7 +47,7 @@ class BUTTON(object):
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://
+        [InlineKeyboardButton("Updates Channel",  url=')
 
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
